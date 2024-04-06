@@ -18,5 +18,17 @@ The second dimension, brand popularity, is shown in blue and plotted against a s
 
 In essence, this graph paints a nuanced picture of the automotive landscape. It suggests that while financial considerations like repair costs are undeniably important, they are just one piece of a larger puzzle. Brand popularity, influenced by factors like prestige, heritage, and consumer experience, plays a pivotal role in shaping consumer choices. This balance between cost and brand perception highlights the diverse priorities and values of car buyers, from those seeking luxury and exclusivity to those prioritizing practicality and affordability.
 
+### Luxuruy Vehicle Theft
+
+The graph below presents a dual-axis comparison between the damage costs and vehicle theft rates for a selection of luxury and average car brands. The left y-axis and the red line plot the damage costs in thousands of dollars, illustrating the financial impact of repairs or replacements due to damage. The right y-axis and the blue line represent the vehicle theft rates, expressed as the number of theft incidents per 100,000 vehicles, highlighting the relative risk of theft associated with each brand.
+
+![damage_costs_and_vehicle_theft_rates](https://github.com/sourceduty/Luxury_Cars/assets/123030236/96d7902b-e65c-4731-b3d5-75184eb26491)
+
+Luxury car brands, such as Mercedes-Benz, BMW, Audi, and Porsche, are shown at the beginning of the x-axis, followed by average car brands like Toyota and Ford. The graph reveals that luxury brands generally have higher damage costs, which can be attributed to the premium materials, advanced technology, and specialized labor required for repairs. These factors contribute to the elevated repair costs compared to average car brands.
+
+On the other hand, the vehicle theft rates depicted by the blue line indicate that average car brands tend to have higher theft rates than luxury brands. This could be due to a variety of factors, including the prevalence of certain models, their demand in the black market, or the effectiveness of their security systems. Interestingly, the graph shows that some luxury brands have relatively low theft rates, possibly reflecting the efficacy of their anti-theft features or their lower ubiquity, making them less targeted by thieves.
+
+Overall, the graph provides a nuanced perspective on owning luxury versus average car brands, balancing the considerations of repair costs against the susceptibility to theft. While luxury cars may incur higher damage costs, they may be less likely to be stolen, presenting a complex decision matrix for potential buyers evaluating the costs and risks associated with different car brands.
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
