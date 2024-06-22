@@ -30,5 +30,10 @@ On the other hand, the vehicle theft rates depicted by the blue line indicate th
 
 Overall, the graph provides a nuanced perspective on owning luxury versus average car brands, balancing the considerations of repair costs against the susceptibility to theft. While luxury cars may incur higher damage costs, they may be less likely to be stolen, presenting a complex decision matrix for potential buyers evaluating the costs and risks associated with different car brands.
 
+#
+### Related Links
+
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
